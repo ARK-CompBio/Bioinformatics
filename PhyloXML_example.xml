@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <phy:phyloxml xmlns:phy="http://www.phyloxml.org">
   <phy:phylogeny rooted="true">
-    <phy:name>example from Prof. Joe Felsenstein's book "Inferring Phylogenies"</phy:name>
+    <phy:name>Example from Prof. Joe Felsenstein's book "Inferring Phylogenies"</phy:name>
     <phy:description>phyloXML allows to use either a "branch_length" attribute or element to indicate branch lengths.</phy:description>
     <phy:clade>
       <phy:clade>
